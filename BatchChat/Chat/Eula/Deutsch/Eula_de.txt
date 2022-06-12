@@ -1,0 +1,27 @@
+MIT-Lizenz
+------------
+
+Urheberrecht (c) 2021 DBMX Prodution
+Die Erlaubnis wird hiermit jeder Person kostenlos erteilt
+Anfordern einer Kopie dieser Software und der zugehörigen Dokumentation
+Dateien (die "Software"), um mit der Software zu handeln, ohne
+Einschränkung, insbesondere der Nutzungsrechte,
+kopieren, modifizieren, zusammenführen, veröffentlichen, verteilen, unterlizenzieren Kopien der Software zu erstellen und Personen zu gestatten, denen die
+Dazu wird Software bereitgestellt, vorbehaltlich der folgenden Bestimmungen
+Bedingungen:
+
+Der obige Urheberrechtshinweis und dieser Erlaubnishinweis sind
+in allen Kopien oder wesentlichen Teilen der Software enthalten sind.
+
+SOFTWARE DARF NICHT VERKAUFT WERDEN!!
+
+DIE SOFTWARE WIRD "WIE BESEHEN", OHNE JEGLICHE GEWÄHRLEISTUNG BEREITGESTELLT,
+AUSDRÜCKLICH ODER STILLSCHWEIGEND, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GARANTIEN
+DER MARKTFÄHIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND
+NICHTVERLETZUNG. IN KEINEM FALL SIND DIE AUTOREN ODER URHEBERRECHTE
+INHABER HAFTEN FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER ANDERE HAFTUNG,
+OB IN EINER VERTRAGS-, DEUTLICHEN ODER ANDERWEITIG ENTSTEHENDEN
+AUS, AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER NUTZUNG ODER
+ANDERE GESCHÄFTE IN DER SOFTWARE. 
+
+SOFTWARE DARF NICHT VERKAUFT WERDEN!!

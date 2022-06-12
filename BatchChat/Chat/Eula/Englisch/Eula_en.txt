@@ -1,0 +1,27 @@
+MIT license
+------------
+
+Copyright (c) 2021 DBMX Prodution
+Permission is hereby given to every person free of charge
+Obtaining a copy of this software and related documentation
+Files (the "Software") in order to trade the Software without
+Restriction, in particular the rights of use,
+copy, modify, merge, publish, distribute, sublicense, make copies of the software and allow persons to view the
+Software is provided for this purpose, subject to the following provisions
+Conditions:
+
+The above copyright notice and this permission notice are
+are contained in all copies or essential parts of the software.
+
+SOFTWARE MUST NOT BE SOLD !!
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY,
+EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NON-INJURY. IN NO EVENT ARE THE AUTHORS OR COPYRIGHT
+OWNERS ARE LIABLE FOR ANY CLAIMS, DAMAGES OR OTHER LIABILITY,
+WHETHER IN A CONTRACT, SIGNIFICANT OR OTHERWISE ARISING
+FROM, FROM OR IN CONNECTION WITH THE SOFTWARE OR USE OR
+OTHER BUSINESS IN THE SOFTWARE.
+
+SOFTWARE MUST NOT BE SOLD !!
